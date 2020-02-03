@@ -32,8 +32,8 @@ def adding
                   "porcelain vases" => 2, 
                   "oil paintings" => 3}
                
-      pping_manifest hash below
-shipping_manifest["musket"] = 2
+  # add 2 muskets pping_manifest hash below
+shipping_manifest["muskets"] = 2
 
 
   # add 4 gun powder to the shipping_manifest hash below
